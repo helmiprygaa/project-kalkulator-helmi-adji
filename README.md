@@ -1,6 +1,12 @@
+# kalkulator sederhana 
 Project kalkulator sederhana ini berbasis web dan dibuat menggunakan html, css, dan javascript. Kalkulator ini dapat digunakan langsung di browser tanpa perlu aplikasi tambahan.
 Kalkulator ini tidak hanya digunakan untuk perhitungan dasar, tetapi juga memiliki beberapa fitur tambahan agar lebih nyaman digunakan.
 Fitur kalkulator
+
+# tampilan UI
+<img width="1037" height="644" alt="Image" src="https://github.com/user-attachments/assets/449082d3-4a4b-4c8d-81b8-a9838ad2159a" />
+
+# fitur
 1. Hitung dasar aritmatika
 Kalkulator ini dapat digunakan untuk:
 tambah (+)
